@@ -1,0 +1,5 @@
+../Core/Src/ADXL345.c:14:6:SCAN_I2C_Address	3
+../Core/Src/ADXL345.c:25:6:ADXL345_Read	1
+../Core/Src/ADXL345.c:37:6:ADXL345_Write	1
+../Core/Src/ADXL345.c:48:6:ADXL345_Init	1
+../Core/Src/ADXL345.c:63:6:ADXL345_Start	1
